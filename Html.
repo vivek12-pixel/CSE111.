@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Heading one</h1><br>
+    <p>this is a paragraph</p><br>
+    <strong>this is strong</strong><br>
+    <em>this is italic</em><br>
+    <hr>
+    <i>this is also italic</i><br>
+    <a href="https://google.com" target="_blank">Google</a><br>
+    <img src="jpg" alt="error"><br>
+    <hr>
+
+    <h2>this is a ordered list</h2>
+    <ol>
+        <li type="square">list1</li>
+        <li>list2</li>
+        <li>list3</li>
+    </ol><br>
+    <h3>this is an unordered list</h3>
+    <ul>
+        <li>list1</li>
+        <li>list2</li>
+        <li>list3</li>
+
+    </ul><br>
+    <h4>this is an nested list</h4>
+    <ol>
+        <li>list1</li>
+        <ul>
+            <li>list2</li>
+            <li>list3</li>
+            <li>list4</li>
+        </ul>
+    </ol>
+
+    <h2>Table</h2>
+    <table border="1">
+        <thead>
+            <th>name</th>
+            <th>id</th>
+            <th>gender</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="name">new2</td>
+               <td>vivek</td>
+               <td>02</td>
+               <td>male</td>
+            </tr>
+            <td rowspan="name">new</td>
+            <td>jhilik</td>
+            <td>03</td>
+            <td>female</td>
+        </tbody>
+    </table>
+    <h2>Form</h2>
+    Name:<input type="text" name="" id=""><br>
+    roll: <input type="number" name="" id=""><br>
+    gender: 
+    male:<input type="radio">
+    female: <input type="radio"><br>
+    hobbies: <br>
+    <input type="checkbox" name="" id="">art <br>
+    <input type="checkbox">sports <br>
+    date: <input type="date" name="" id=""><br>
+    <div>time: <input type="time" name="" id=""></div>
+    <br>
+   email: <em><a href="mailto:vivekgorai124@gmail.com">vivekgorai124@gmail.com</a></em><br>
+   my text: <br>
+   <textarea name="mytext" cols="30" rows="10" id=""></textarea>
+   <br>
+   <div><label for="car">Car</label></div>
+   <div><select name="my car" id="car">
+    <option value="ind">indica</option>
+    <option value="lambo">lamborgini</option>
+    <option value="swift">swift</option>
+   </select></div>
+   <br>
+    <input type="reset" name="" id="">
+   
+   
+    <input type="submit" name="" id="">
+  
+<h1>this is another practice problem</h1>
+<h2>this is a order a list</h2>
+<ol>
+    <li>list1</li>
+    <li>list2</li>
+    <li>list2</li>
+</ol><br>
+<ul>
+    <ol>
+        <li>list2</li>
+        <li>lit2</li>
+        <li>list3</li>
+
+    </ol>
+</ul>
+<h3>this is a form</h3>
+inp
+
+
+
+</body>
+
+</html>
